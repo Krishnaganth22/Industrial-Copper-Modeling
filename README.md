@@ -72,3 +72,9 @@ Inputs: Quantity Tons, Thickness, Width, Customer ID, Selling Price, Item Type, 
 Output: Predicted Status (Won/Lost).
 # Contributing
 Contributions are welcome! Please create a pull request or open an issue to discuss your changes.
+
+
+<img width="911" alt="image" src="https://github.com/Krishnaganth22/Industrial-Copper-Modeling/assets/161042495/e1ee6a9d-ac61-4d25-ae00-495421632dca">
+
+## THANK YOU ! ##
+
