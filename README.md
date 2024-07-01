@@ -3,17 +3,17 @@
 # Copper Industrial Dataset Analysis and Prediction
 This repository contains code for data cleaning, analysis, and prediction using the Copper Industrial Dataset. The dataset includes information on various copper products, their quantities, and related selling prices. The analysis includes data preprocessing, outlier handling, feature transformation, and machine learning modeling for regression and classification tasks.
 
-# Table of Contents
-# Project Overview
-# Requirements
-# Data Cleaning and Preprocessing
-# Exploratory Data Analysis
-# Machine Learning Models
-# Decision Tree Regressor
-#Decision Tree Classifier
-# Usage
+Table of Contents
+Project Overview
+Requirements
+Data Cleaning and Preprocessing
+Exploratory Data Analysis
+Machine Learning Models
+Decision Tree Regressor
+Decision Tree Classifier
+Usage
 
-# Project Overview
+# Project Overview:
 The goal of this project is to:
 
 Clean and preprocess the Copper Industrial Dataset.
@@ -45,8 +45,6 @@ python
 
 # Exploratory Data Analysis
 Exploratory data analysis involves visualizing the distributions and correlations in the dataset.
-
-
 
 
 
